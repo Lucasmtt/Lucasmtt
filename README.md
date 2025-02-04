@@ -57,12 +57,6 @@ Atualmente, trabalho como **freelancer**, desenvolvendo e mantendo sistemas **Ja
 
 ---
 
-## 📌 **Projetos Destacados**
-🔹 [Projeto 1 - Nome do Projeto](https://github.com/Lucasmtt/NomeDoProjeto)  
-🔹 [Projeto 2 - Nome do Projeto](https://github.com/Lucasmtt/NomeDoProjeto)  
-
----
-
 ## 📬 **Entre em Contato**
 📧 Email: [lurmtt@gmail.com](mailto:lurmtt@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/seu-perfil](#)  
