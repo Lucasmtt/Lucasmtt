@@ -30,6 +30,8 @@ Currently working as a **freelancer**, developing and maintaining systems using 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MQL5-003A76?style=for-the-badge&logoColor=white" alt="MQL5"/>
 </p>
 
 ### 📌 **Frameworks & Technologies:**
