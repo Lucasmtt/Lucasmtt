@@ -7,11 +7,6 @@
 
 ---
 
-## 🏆 **Trophies & Badges**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Lucasmtt&theme=darkhub)
-
----
-
 ## 🚀 **About Me**
 I'm a passionate developer with experience in **Front-End, Back-End, and Mobile Development**.  
 Currently working as a **freelancer**, developing and maintaining systems using **Java, Python, Kotlin, and more**.
@@ -66,6 +61,11 @@ Currently working as a **freelancer**, developing and maintaining systems using 
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/CVS-00599C?style=for-the-badge&logoColor=white" alt="CVS"/>
 </p>
+
+---
+
+## 🏆 **Trophies & Badges**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Lucasmtt&theme=darkhub)
 
 ---
 
