@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Lucas Ribeiro de Mattos!
+# 👋 Hello, I'm Lucas Mattos!
 
 💻 Full Stack Developer | Mobile | Back-End  
 📍 Araucária, PR - Brazil  
